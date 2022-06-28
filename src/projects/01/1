@@ -1,0 +1,3 @@
+
+// mount -> update (new props, )
+// -> unmount (like with dynamic render. if prop is false, a component will get deleted)
